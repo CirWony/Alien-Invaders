@@ -1,0 +1,12 @@
+Cory, 4330
+Someone, 110
+Player, 250
+Someone, 300
+Someone Else, 700
+Person, 10
+Almost, 2000
+Not Top, 5
+AAA, 900
+Low, 5
+Bottom Tier, 0
+You,780
