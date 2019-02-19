@@ -9,4 +9,3 @@ Not Top, 5
 AAA, 900
 Low, 5
 Bottom Tier, 0
-You,780
